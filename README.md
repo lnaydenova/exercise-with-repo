@@ -1,3 +1,4 @@
 # exercise-with-repo
-Repo for exercises
-This will make a conflict
+The megred version
+This repo is made for exercises for the lesson for Github 
+
